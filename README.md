@@ -1,2 +1,2 @@
-# javascript
+# Curso-javascript
 Ponto de partida
